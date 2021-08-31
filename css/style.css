@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    display: flex;
+    font-family: arial, sans-serif;
+    min-height: 100vh;
+  }
+  .left{
+    width: 30%;
+    background: linear-gradient(180deg, #464d53 0%, #191b24 100%);
+  }
+  .right{
+    width: 70%;
+  }
+  .logo-wrap{
+    width: 44px;
+    margin-top: 4%;
+    margin-left: 4%;
+  }
+  .logo{
+      width: 100%;
+  }
+  .top {
+    position: relative;
+    top: 34%;
+    left: 13%;
+}
+li {
+    font-size: 23px;
+    list-style: none;
+
+}
+li a{
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    line-height: 37px;
+}
+li a:hover{
+    color: rgb(239, 243, 6);
+}
