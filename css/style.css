@@ -169,3 +169,64 @@ progress#file {
 .prod {
   margin-top: 3%;
 }
+.mod {
+  overflow: hidden;
+  text-align: center;
+  color: #00000099;
+}
+
+.mod:before,
+.mod:after {
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.mod:before {
+  right: 0.5em;
+  margin-left: -112%;
+}
+
+.mod:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+.mod-l {
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+.lnk{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2%;
+}
+.gov {
+  display: flex;
+}
+.bn {
+  margin: 4% 2%;
+  display: flex;
+    justify-content: space-between;
+}
+button.bns {
+  padding: 2% 6%;
+  border: none;
+  font-size: 18px;
+  background-color: #fff;
+  color: #e4b26f;
+  font-weight: 700;
+}
+button.bnx{
+  padding: 2% 6%;
+  background-color: #ea9006;
+  color: #000;
+  font-size: 18px;
+  border: 1px solid #ea9006;
+  border-radius: 8px;
+  font-weight: 700;
+}
