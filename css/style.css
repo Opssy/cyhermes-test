@@ -41,3 +41,131 @@ li a{
 li a:hover{
     color: rgb(239, 243, 6);
 }
+p.quote {
+  font-size: 24px;
+  color: #fff;
+}
+.bottom {
+  position: relative;
+  top: 54%;
+  border: 2px solid #00000012;
+  padding: 1% 3%;
+  border-radius: 9px;
+  margin: 0% 2%;
+  box-shadow: 2px 2px 2px 2px #ffffff8f;
+}
+.rrh {
+  display: flex;
+  justify-content: space-between;
+  margin: 2% 4%;
+}
+span.hey {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+span.thry {
+  font-style: oblique;
+  color: #ea9006;
+}
+h2.sta {
+  margin-top: 1%;
+  margin-bottom: 5%;
+}
+span.ng {
+  color: #0059ff;
+}
+.num{
+  margin-top: 1%;
+  margin-bottom: 2%;
+  color: #0059ff;
+}
+span.tot {
+  font-size: 18px;
+  font-weight: 600;
+}
+.packages {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 3%;
+  
+}
+.pkg{
+  border: 2px solid #0059ff0d;
+  border-radius: 11px;
+  box-shadow: 4px 6px #0059ff1f;
+  width: 43%;
+  padding-left: 3%;
+  padding-top: 2%;
+}
+.pkgs{
+  border: 2px solid #0059ff0d;
+  border-radius: 11px;
+  box-shadow: 4px 9px #0059ff82;
+  width: 43%;
+  padding-left: 3%;
+  padding-top: 2%;
+  background-color: #0059ff21;
+}
+p.frm {
+  font-size: 16px;
+  font-weight: 400;
+  color: #ea9006;
+}
+.star {
+  line-height: 30px;
+}
+.preb {
+  margin-top: 37%;
+  margin-bottom: 15%;
+}
+p.use {
+  letter-spacing: 1px;
+}
+h3.bas {
+  font-size: 24px;
+  color: #0059ff;
+}
+p.trail {
+  font-size: 18px;
+  font-weight: 100;
+}
+.ttp {
+  line-height: 25px;
+}
+.bbm{
+  margin-top: 10%;
+}
+h3.inc {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.dash{
+  color: #0059ff;
+}
+li.ul {
+  font-weight: lighter;
+  line-height: 41px;
+}
+.add {
+  margin-left: 2%;
+  margin-top: 2%;
+  line-height: 28px;
+}
+h2.musers {
+  color: #00000099;
+}
+.nine{
+  color: #00000099;
+}
+progress#file {
+  width: 96%;
+  margin-left: 2%;
+}
+.file {
+  display: flex;
+  justify-content: space-between;
+  margin: 0% 2%;
+}
+.prod {
+  margin-top: 3%;
+}
